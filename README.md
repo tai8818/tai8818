@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tai8818
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Human Action Recognition
+- 📫 How to reach me huithye@gmail.com
